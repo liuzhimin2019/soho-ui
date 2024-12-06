@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django_sohoui',  # 包的名称
-    version='1.1.3',  # 包的版本
+    version='1.1.6',  # 包的版本
     packages=find_packages(),  # 自动找到包
     install_requires=[],  # 依赖的其他包
     author='zack_liu',  # 作者
